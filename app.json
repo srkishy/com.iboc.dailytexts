@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Moravian-Daily-Texts-Android",
+    "slug": "Moravian-Daily-Texts-Android",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Moravian-Daily-Texts-Android"
+}
